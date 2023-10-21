@@ -9,5 +9,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/project-ironbody-ui/',
+  base: '/fs-74-react-node-iron-body/',
 });
