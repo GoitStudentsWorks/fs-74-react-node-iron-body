@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/project-ironbody-ui">
+        <BrowserRouter basename="/fs-74-react-node-iron-body">
           <GlobalVars />
           <App />
         </BrowserRouter>
